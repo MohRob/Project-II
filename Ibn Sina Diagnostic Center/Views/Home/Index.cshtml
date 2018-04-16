@@ -1,0 +1,93 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        .mySlides {
+            display: none;
+        }
+    </style>
+
+
+
+    <div class="w3-content w3-section" style="max-width:1200px">
+        <img class="mySlides" src=~/Content/1.jpg style="width:100%">
+        <img class="mySlides" src=~/Content/2.jpg style="width:100%">
+        <img class="mySlides" src=~/Content/3.jpg style="width:100%">
+        <img class="mySlides" src=~/Content/4.jpg style="width:100%">
+
+        <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+
+    </div>
+
+    <script>
+var myIndex = 0;
+            carousel();
+            var slideIndex = 1;
+            showDivs(slideIndex);
+
+            function plusDivs(n) {
+                showDivs(slideIndex += n);
+            }
+
+            function showDivs(n) {
+                var i;
+                var x = document.getElementsByClassName("mySlides");
+                if (n > x.length) { slideIndex = 1 }
+                if (n < 1) { slideIndex = x.length }
+                for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none";
+                }
+                x[slideIndex - 1].style.display = "block";
+            }
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}
+    x[myIndex-1].style.display = "block";
+    setTimeout(carousel, 4000); // Change image every 2 seconds
+}
+    </script>
+
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Ongoing Projects</h2>
+        <p>
+            Ibn Sina Hospital & Diagnostic Imaging Center Keranigonj Limited:
+            Kadamtaly, Keranigoinj, Dhaka-1310.
+            Ib Sina Diagnostic & Consultation Center, Malibagh:
+            House# 479,DIT Road, Malibagh, Dhaka-1217.
+        </p>
+        <p><a class="btn btn-default" href="google.com"> &raquo;</a></p>
+
+    </div>
+    <div class="col-md-4">
+        <h2>Mission & Vision</h2>
+        <p>Vision:
+
+            To be on a planet devoid of the distressed and the diseased;
+            To be at the level where help is sought to save lives;
+            To be an institution that rises above pettiness to help humanity;
+
+            Mission:
+
+            To become the most trusted premier institution serving the suffering humanity and people’s welfare oriented activities.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">More &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Web Hosting</h2>
+        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+    </div>
+</div>

@@ -1,0 +1,46 @@
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\ApplicationInsights.config
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Ibn Sina Diagnostic Center.dll.config
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Ibn Sina Diagnostic Center.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Ibn Sina Diagnostic Center.pdb
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Antlr3.Runtime.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\EntityFramework.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\EntityFramework.SqlServer.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.AI.Web.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.ApplicationInsights.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Newtonsoft.Json.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.Helpers.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.Mvc.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.Optimization.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.Razor.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.WebPages.Deployment.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.WebPages.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.WebPages.Razor.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\WebGrease.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\EntityFramework.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\EntityFramework.SqlServer.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.Helpers.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.Mvc.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.Optimization.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.Razor.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.WebPages.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.WebPages.Deployment.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\System.Web.WebPages.Razor.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Antlr3.Runtime.pdb
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Newtonsoft.Json.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.ApplicationInsights.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\bin\Microsoft.AI.Web.xml
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\obj\Debug\Ibn Sina Diagnostic Center.csprojResolveAssemblyReference.cache
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\obj\Debug\Ibn Sina Diagnostic Center.csproj.CoreCompileInputs.cache
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\obj\Debug\Ibn Sina Diagnostic Center.dll
+c:\users\mrj najmul\source\repos\Ibn Sina Diagnostic Center\Ibn Sina Diagnostic Center\obj\Debug\Ibn Sina Diagnostic Center.pdb
